@@ -5,4 +5,4 @@ it is made of using
 1. Html
 2. Css
 3. Vanilla JS
-4. Funtranslator API
+4. Funtranslations API
